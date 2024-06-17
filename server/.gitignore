@@ -20,6 +20,9 @@ media
 *.py[cod]
 *$py.class
 
+# Ignore VS code configuration
+.idea/
+
 # C extensions
 *.so
 
